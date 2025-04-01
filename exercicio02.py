@@ -9,4 +9,4 @@ multi =num1*num2
 print (f"A soma entre os números é de: {soma} \n"
        f"A subtração entre os números é de: {subtracao}\n"
        f"A divisão entre os números é de:{divisao}\n"
-       f"A multiplicação entre os números é de: {multi}")
+       f"A multiplicação entre os números é de: {multi:.2f}")
