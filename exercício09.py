@@ -24,5 +24,5 @@ elif num == 10:
     print("Outubro")
 elif num == 11:
     print("Novembro")
-elif num == 12:
+else:
     print("Dezembro")
